@@ -4,10 +4,10 @@ title: Primeiro artigo
 author: Jorge Fernandes
 description: O primeiro artigo sobre tudo e nada
 ---
-# First post
+# Primeiro artigo
 
 Este artigo foi escrito por {{ page.author}}
 
-** {{ page.description }} **
+**{{ page.description }}**
 
-And quite a pedantic one.
+And <span class="sr-only">quite</span> a pedantic one.
