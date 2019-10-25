@@ -20,7 +20,7 @@
     <nav aria-labelledby="blog">          
       <ul>
         {% for post in site.posts %}
-          <li {% if page.url == post.url %}class="active"{% endif %}><a href="/www-a11y/{{ post.url }}">{{ post.title }}</a></li>
+          <li {% if page.url == post.url %}aria-current="page"{% endif %}><a href="/www-a11y/{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
       </ul>
     </nav>
