@@ -10,4 +10,4 @@ Este artigo foi escrito por {{ page.author}}
 
 **{{ page.description }}**
 
-And <span class="sr-only">quite</span> a pedantic one.
+E se as CSS estiverem a funcionar a palavra <span class="sr-only">Uau</span> não irá aparecer. Uau!
