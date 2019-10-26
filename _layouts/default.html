@@ -3,7 +3,9 @@
 
   <div id="container">
     <header>
-
+    	{% if page.url == "/" %}<h1>acessibilidade.gov.pt</h1>{% endif %}
+    	{% if page.url != "/" %}<p>acessibilidade.gov.pt</p>{% endif %}
+    	<p><small>O presente sítio Web serve de apoio ao sítio Web <a href="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</a></small></p>
     </header>
     <main id="main">
       {{ content }}
@@ -12,8 +14,8 @@
       <h2 id="site">Páginas</h2>
     <nav aria-labelledby="site">
       <ul>
-        <li><a href="/www-a11y/" rel="home">Home</a></li>
-        <li><a href="/www-a11y/about">Sobre</a></li>
+        <li><a href="index" rel="home">Home</a></li>
+        <li><a href="about">Sobre</a></li>
       </ul>
     </nav>
       <h2 id="blog">Artigos</h2>

@@ -1,6 +1,8 @@
 ---
 title: A minha primeira página
 layout: default
+author: Jorge Fernandes
+description: acessibilidade.gov.pt - sítio Web de suporte de redação
 ---
 
 # {{ page.title }}
