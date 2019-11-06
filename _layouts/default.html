@@ -4,11 +4,15 @@
   <div class="w3-container">
     <header>
     	{% if page.url == "/" %}
-    		<h1>acessibilidade.gov.pt</h1>
-    		<p class="w3-indigo"><small>O presente sítio Web serve de apoio redacional ao sítio Web <a href="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</a></small></p>
+    		<div class="w3-container w3-indigo">
+          <h1>acessibilidade.gov.pt</h1>
+    		  <p><small>O presente sítio Web serve de apoio redacional ao sítio Web <a href="http://www.acessibilidade.gov.pt">acessibilidade.gov.pt</a></small></p>
+        </div>
     	{% endif %}
     	{% if page.url != "/" %}
-    		<p><a href="/www-a11y/index" title="ir para a primeira página" rel="home">acessibilidade.gov.pt</a></p>
+    		<div class="w3-container w3-indigo">
+          <p><a href="/www-a11y/index" title="ir para a primeira página" rel="home">acessibilidade.gov.pt</a></p>
+        </div>
     	{% endif %}    	
     </header>
     <main id="main">
