@@ -20,7 +20,9 @@
       <h2 id="site">Páginas</h2>
     <nav aria-labelledby="site">
       <ul>
-        <li><a href="/www-a11y/about">Sobre</a></li>
+        {% for page in site.pages %}
+        <li {% if page.url == post.url %}aria-current="page"{% endif %}><a href="/www-a11y{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
       </ul>
     </nav>
       <h2 id="blog">Artigos</h2>
