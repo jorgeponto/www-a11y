@@ -18,13 +18,13 @@
     <footer class="w3-container w3-indigo">
       <a href="https://github.com/jorgeponto/www-a11y">git www-a11y</a>
       <h2 id="site">Páginas</h2>
-    <nav aria-labelledby="site">
-      <ul>
-        {% for page in site.pages %}
-        <li {% if page.url == post.url %}aria-current="page"{% endif %}><a href="/www-a11y{{ page.url }}">{{ page.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
+        <nav aria-labelledby="site">
+          <ul>
+          {% for page in site.pages %}
+            <li {% if page.url == post.url %}aria-current="page"{% endif %}><a href="/www-a11y{{ page.url }}">{{ page.title }}</a></li>
+          {% endfor %}
+          </ul>
+        </nav>
       <h2 id="blog">Artigos</h2>
     <nav aria-labelledby="blog">          
       <ul>
