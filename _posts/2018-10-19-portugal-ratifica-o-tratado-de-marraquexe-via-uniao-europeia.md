@@ -1,8 +1,7 @@
 ---
 title: Portugal ratifica o Tratado de Marraquexe via União Europeia
 date: 2018-10-19
-categories:
-  - Publicações
+permalink: /tratado-marraquexe/
 ---
 
 No passado dia 1 de outubro, a União Europeia ratificou o Tratado de Marraquexe, implicando que todos os Estados-Membros passem efetivamente a ser Parte do mesmo. Os efeitos surtirão a partir de 1 de janeiro de 2019. 

@@ -1,0 +1,54 @@
+<article id="post-1902" class="post-1902 post type-post status-publish format-image hentry category-noticias post_format-post-format-image">
+
+	    	<p class="post-category"><i class="fa fa-picture-o"></i> <a href="http://www.acessibilidade.gov.pt/arquivo/category/noticias" rel="category tag">Notícias</a></p>
+	
+	<h2 class="entry-title"><a href="http://www.acessibilidade.gov.pt/arquivo/1902">DL n.º 83/2018 – Declaração de Acessibilidade para sítios Web novos, a partir de 23 de setembro</a></h2>
+	<div class="entry-meta">
+		por <span>equipa acesso</span>&nbsp;em&nbsp;<span><time class="published updated" datetime="2019-09-13">13 de Setembro de 2019</time></span>	</div>
+	    <div class="entry-content">
+	        <p>De acordo com o DL n.º 83/2018, de 19 de outubro, a partir de 23 de setembro de 2019, todos os sítios Web públicos “novos” – ou seja, construídos depois de 23 de setembro de 2018 – precisam de ter uma <strong>Declaração de Acessibilidade</strong>. A hiperligação para a Declaração deve ser posicionada na primeira página do sítio e a mesma deve estar na diretoria /acessibilidade/.</p>
+<p>Para a criação da Declaração de Acessibilidade a Equipa de Experiência Digital (EED) da <abbr title="Agência para a Modernização Administrativa, I.P.">AMA</abbr> criou o <a href="http://acessibilidade.tk/gerador/#create">Gerador da Declaração de Acessibilidade</a>, o qual gera o código HTML pronto para ser afixado no respetivo sítio Web. Produzindo a Declaração com o Gerador garante que o seu conteúdo é <em lang="en">“machine-readable”</em>, ou seja que a informação vai poder ser recolhida automaticamente pela equipa da AMA.</p>
+<p>Antes de avançar para a produção da Declaração de Acessibilidade, é necessário efetuar uma análise ao seu sítio Web.</p>
+<ol>
+<li><strong>Análise automática simplificada:</strong> passe uma amostra do seu sítio Web por um validador automático de acessibilidade – nível de conformidade duplo-A das <a href="https://acessibilidade.tk/wcag/wcag21-pt-PT.html"><abbr title="Web Content Accessibility Guidelines" lang="en">WCAG</abbr> 2.1 do <abbr title="World Wide Web Consortium" lang="en">W3C</abbr></a>. A amostra é composta pela página de entrada do sítio mais todas as páginas hiperligadas á primeira que pertencem ao domínio. Pode submeter essas páginas, por exemplo, ao <a href="http://accessmonitor.acessibilidade.gov.pt/amp">AccessMonitor</a>. Para o efeito peça à Equipa de Experiência Digital da AMA (pode usar os endereços <a href="mailto:jorge.fernandes@ama.pt">Jorge Fernandes</a> e/ou <a href="mailto:claudia.cardoso@ama.pt">Cláudia Cardoso</a>).</li>
+<li><strong>Análise manual simplificada:</strong> proceda à análise dos seus conteúdos à luz da <a href="http://www.acessibilidade.gov.pt/web/checklist-10aspetos.html">Checklist “10 aspetos funcionais”</a>.</li>
+
+<p>De acordo com o DL n.º 83/2018, de 19 de outubro, estes são os dois tipos de análise mandatórios. A Declaração pode apresentar o estado de conformidade: totalmente conforme, parcialmente conforme ou não conforme.</p>
+<p>Aconselha-se a depositar todos os documentos resultantes das análises na diretoria /acessibilidade/docs/ . Estes documentos são para serem referenciados e hiperligados na Declaração de Acessibilidade.</p>
+<p>Depois das análises e da produção documental que evidenciam os esforços da entidade em prol da acessibilidade Web está pronto para gerar a Declaração de Acessibilidade.</p>
+<p>Ter a Declaração de Acessibilidade em conformidade com o DL n.º 83/2018 e candidatar-se ao Selo de Usabilidade e Acessibilidade são coisas diferentes. Para responder aos requisitos legais não precisa de ter o selo. No entanto, os candidatos ao Selo de Usabilidade e Acessibilidade têm de responder aos requisitos legais do DL n.º 83/2018. Os elementos de submissão de uma candidatura ao selo é sintetizada na Declaração de Acessibilidade e Usabilidade.</p>
+<h3 style="margin-top:2rem;">Checklists para efeitos da Declaração de Acessibilidade e Usabilidade<br>
+(no estrito âmbito do que é obrigatório de acordo com o DL n.º 83/2018, de 19 de outubro)</h3>
+<ul>
+<li><a href="http://www.acessibilidade.gov.pt/web/checklist-10aspetos.html">Checklist “10 aspetos funcionais”</a></li>
+</ul>
+<p>Para a recolha das evidências que comprovem a conformidade para com a checklist, a equipa da EED da AMA desnevolveu um ficheiro de <a href="http://www.acessibilidade.gov.pt/web/sintese-10aspetos.xlsx">Recolha de evidências da checklist “10 aspetos funcionais” (Excel, 72KB)</a>.</p>
+<h3 style="margin-top:2rem">Checklists para candidatura ao selo de Usabilidade e Acessibilidade</h3>
+<p>No âmbito da candidatura ao selo Bronze é necessário, nomeadamente, estar em conformidade com:</p>
+<ul>
+<li><a href="http://www.acessibilidade.gov.pt/web/checklist-conteudo.html">Checklist “Conteúdo”</a></li>
+</ul>
+<p>Para a recolha das evidências que comprovem a conformidade para com a checklist, a equipa da EED da AMA desnevolveu um ficheiro de <a href="http://www.acessibilidade.gov.pt/web/sintese-conteudo.xlsx">Recolha de evidências da checklist “Conteúdo” (Excel, 54KB)</a>.</p>
+<p>No âmbito da candidatura ao selo Prata é necessário, nomeadamente, estar em conformidade com:</p>
+<ul>
+<li><a href="http://www.acessibilidade.gov.pt/web/checklist-transacao.html">Checklist “Transação”</a></li>
+</ul>
+<p>Para a recolha das evidências que comprovem a conformidade para com a checklist, a equipa da EED da AMA desenvolveu um ficheiro de <a href="http://www.acessibilidade.gov.pt/web/sintese-transacao.xlsx">Recolha de evidências da checklist “Transação” (Excel, 44KB)</a>.</p>
+<p><strong>Para mais informações sobre o Selo de Usabilidade e Acessibilidade, consulte o <a href="https://selo.usabilidade.gov.pt" title="sítio Web do Selo de Usabilidade e Acessibilidade">o sítio Web do selo</a></strong></p>
+<h3>Referências:</h3>
+<ul>
+<li><a href="http://acessibilidade.tk/gerador/#create">Gerador da Declaração de Acessibilidade</a></li>
+<li><a href="http://www.acessibilidade.gov.pt/web/checklist-10aspetos.html">Checklist “10 aspetos funcionais”</a></li>
+<li><a href="http://www.acessibilidade.gov.pt/web/checklist-conteudo.html">Checklist “Conteúdo”</a></li>
+<li><a href="http://www.acessibilidade.gov.pt/web/checklist-transacao.html">Checklist “Transação”</a></li>
+<li><a href="http://www.acessibilidade.gov.pt/web/sintese-10aspetos.xlsx">Recolha de evidências da checklist “10 aspetos funcionais” (Excel, 72KB)</a></li>
+<li><a href="http://www.acessibilidade.gov.pt/web/sintese-conteudo.xlsx">Recolha de evidências da checklist “Conteúdo” (Excel, 54KB)</a></li>
+<li><a href="http://www.acessibilidade.gov.pt/web/sintese-transacao.xlsx">Recolha de evidências da checklist “Transação” (Excel, 44KB)</a></li>
+<li><a href="https://acessibilidade.tk/wcag/wcag21-pt-PT.html"><abbr title="Web Content Accessibility Guidelines" lang="en">WCAG</abbr> 2.1 do <abbr title="World Wide Web Consortium" lang="en">W3C</abbr> (versão portuguesa)</a></li>
+<li><a href="https://selo.usabilidade.gov.pt">Selo de Usabilidade e Acessibilidade</a></li>
+</ul>
+	    </ol></div><!-- .entry-content -->
+
+	    	<footer class="entry">
+	    	</footer><!-- .entry -->
+	</article>
