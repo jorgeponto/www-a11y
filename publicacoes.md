@@ -1,10 +1,7 @@
 ---
-id: 235
 title: Publicações
-date: 2013-05-31T09:28:05+00:00
-author: equipa acesso
-layout: page
-guid: http://www.acessibilidade.gov.pt/wordpress/?page_id=235
+date: 2013-05-31
+author: equipa experiência digital
 ---
 <div class="alert alert-success">
   <div style="color:#000;">
@@ -12,7 +9,7 @@ guid: http://www.acessibilidade.gov.pt/wordpress/?page_id=235
       <strong>navegação rápida na página:</strong>
     </p>
     
-    <ul>
+  <ul>
       <li>
         <a href="#estudos0">Estudos sobre Acessibilidade</a>
       </li>
